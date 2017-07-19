@@ -1,17 +1,21 @@
-title: space-body-quiz
+---
 hero_image: images/banner.png
-description: space-body-quiz description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "jokes/pranks, space, photography, music/sound, physical computing, games, robots"
-technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
-site_areas:
+title: Your Body in Space
+description: Create a quiz to test your friend's knowledge of living in space.
+original_url: https://codeclubprojects.org/en-GB/space-mission/space-body-quiz
+interests: ''
+technologies: ''
+site_areas: codeclub, space-mission
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: Introduction
+- title: Let's meet Marco.
+- title: Add the first question.
+- title: Add a score
+- title: 'Challenge: Add more questions'
+

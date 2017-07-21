@@ -14,8 +14,8 @@ technologies: scratch
 site_areas: codeclub, space-mission
 steps:
 - title: Introduction
-- title: Let's meet Marco.
-- title: Add the first question.
+- title: Let's meet Marco
+- title: Add the first question
 - title: Add a score
 - title: 'Challenge: Add more questions'
 

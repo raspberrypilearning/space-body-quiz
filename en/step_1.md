@@ -13,7 +13,7 @@ You are going to create your own space quiz using facts about your body in space
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/space-body-quiz/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/space-body-quiz/print).
 
 
 --- collapse ---

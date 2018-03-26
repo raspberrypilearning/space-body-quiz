@@ -6,8 +6,6 @@ On 15 December 2015, British astronaut Tim Peake set off on the Principia missio
 
 You are going to create your own space quiz using facts about your body in space. This quiz is based on the activity on page 6 of the Space Diary. 
 
-__Try the Quiz:__  Before you begin this project, have a go at the Your Body in Space Quiz. If you are viewing this project online then you can try the project below. If you have a printed copy of then you can go to: <a href="http://jumpto.cc/your-body" target="_blank">jumpto.cc/your-body</a> to try it. 
-
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/135911076/?autostart=false" frameborder="0"></iframe>
   <img src="images/space-body-final.png">

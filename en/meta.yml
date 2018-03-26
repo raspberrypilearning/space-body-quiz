@@ -1,12 +1,12 @@
 ---
-hero_image: images/banner.png
-theme: red
+title: Your Body in Space
+hero_image: images/space-body-quiz.png
+theme:  violet
 duration: 2
-listed: false
+listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Your Body in Space
 description: Create a quiz to test your friend's knowledge of living in space.
 original_url: https://codeclubprojects.org/en-GB/space-mission/space-body-quiz
 interests: space
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps: 
 - title: Introduction
-- title: Let's meet Marco.
-- title: Add the first question.
+- title: Let's meet Marco
+- title: Add the first question
 - title: Add a score
 - title: 'Challenge: Add more questions'
